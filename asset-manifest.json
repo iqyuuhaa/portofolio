@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portofolio/static/css/main.cac96852.css",
-    "main.js": "/portofolio/static/js/main.fc9db875.js",
+    "main.js": "/portofolio/static/js/main.d3513c3b.js",
     "static/css/64.bba8fa55.chunk.css": "/portofolio/static/css/64.bba8fa55.chunk.css",
-    "static/js/64.6a68d03e.chunk.js": "/portofolio/static/js/64.6a68d03e.chunk.js",
+    "static/js/64.da915fb3.chunk.js": "/portofolio/static/js/64.da915fb3.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/portofolio/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.634c2929.chunk.js": "/portofolio/static/js/769.634c2929.chunk.js",
+    "static/js/769.f2d7fde4.chunk.js": "/portofolio/static/js/769.f2d7fde4.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/portofolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/IKU_FT.jpg": "/portofolio/static/media/IKU_FT.526e4d1b9107d604eb4d.jpg",
     "static/media/Logo_Unesa.png": "/portofolio/static/media/Logo_Unesa.d98d7eee49b7655e8c92.png",
@@ -21,14 +21,14 @@
     "index.html": "/portofolio/index.html",
     "static/media/talksCardBack.svg": "/portofolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.cac96852.css.map": "/portofolio/static/css/main.cac96852.css.map",
-    "main.fc9db875.js.map": "/portofolio/static/js/main.fc9db875.js.map",
+    "main.d3513c3b.js.map": "/portofolio/static/js/main.d3513c3b.js.map",
     "64.bba8fa55.chunk.css.map": "/portofolio/static/css/64.bba8fa55.chunk.css.map",
-    "64.6a68d03e.chunk.js.map": "/portofolio/static/js/64.6a68d03e.chunk.js.map",
+    "64.da915fb3.chunk.js.map": "/portofolio/static/js/64.da915fb3.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/portofolio/static/css/769.b3cbb36b.chunk.css.map",
-    "769.634c2929.chunk.js.map": "/portofolio/static/js/769.634c2929.chunk.js.map"
+    "769.f2d7fde4.chunk.js.map": "/portofolio/static/js/769.f2d7fde4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cac96852.css",
-    "static/js/main.fc9db875.js"
+    "static/js/main.d3513c3b.js"
   ]
 }
